@@ -11,7 +11,7 @@
 </p>
 
 <!-- Body -->
-You can view the deployed page by simply opening the [link]().
+You can view the deployed page by simply opening the [link](https://regal-pika-e5618b.netlify.app/).
 <br/>
 
 Clone the repository using the command:
